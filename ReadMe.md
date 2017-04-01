@@ -1,1 +1,1 @@
-Learn Git v1.0
+Learn Git v1.0.1
